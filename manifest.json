@@ -1,0 +1,14 @@
+{
+    "name": "RandNumb",
+    "version": "1.0.0",
+    "description": "A Random Number Generator based on linear congruence method for range of 0 to 10^10.",
+    "manifest_version": 3,
+    "author": "deytulsi18",
+    "action": {
+        "default_popup": "./index.html",
+        "default_icon": "./assets/img/logo.png"
+    },
+    "icons": {
+        "512": "./assets/img/logo.png"
+    }
+}
